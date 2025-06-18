@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Anusha 👋
 
-<!--
-**anushasathia/anushasathia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer and tech enthusiast currently exploring the world of open source and web development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming: Java, JavaScript, Python
+- Web: HTML, CSS, React, Node.js
+- Tools: Git, GitHub, IntelliJ, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+- **To-Do List App** – Simple JS project to manage tasks
+- **E-commerce Product Page** – React project for showcasing products
+- **Student Grade Table** – HTML/CSS table with dynamic rows
+
+## 🏆 Achievements
+- 🥇 Winner of Finkross at KIIT Fest
+- 📜 Best Paper Award at National Conclave on Viksit Bharat 2047
+- 🧠 Built apps as part of training with real-world challenges
+
+## 🎯 Interests
+- Open Source
+- Financial literacy and behavioral economics
+- Building clean UI with React
